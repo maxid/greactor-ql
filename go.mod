@@ -1,3 +1,3 @@
 module github.com/maxid/greactor-ql
 
-go 1.24
+go 1.27
