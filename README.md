@@ -1,6 +1,6 @@
 # greactor-ql
 
-Go implementation of [reactor-ql](https://github.com/maxid/reactor-ql): a small SQL-over-stream engine for message transformation.
+Go implementation of the reactor-ql project: a small SQL-over-stream engine for message transformation.
 
 > Status: **experimental scaffold** (v0.0.0-dev).
 
