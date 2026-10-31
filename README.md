@@ -1,3 +1,5 @@
+English | [简体中文](README.zh-CN.md)
+
 # greactor-ql
 
 A small SQL-over-stream engine for message transformation in Go.
